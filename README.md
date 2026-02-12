@@ -1,6 +1,6 @@
-# Asteroid DB - NASA Space Apps Challenge 2023
+# Asteroid DB - NASA Space Apps Challenge 2025
 
-This project was created for the [NASA Space Apps Challenge 2023](https://www.spaceappschallenge.org/), specifically for the "Meteor Madness" challenge.
+This project was created for the [NASA Space Apps Challenge 2025](https://www.spaceappschallenge.org/), specifically for the "Meteor Madness" challenge.
 
 **Live Demo:** [https://asteroid-db-2nk6.vercel.app/](https://asteroid-db-2nk6.vercel.app/)
 
